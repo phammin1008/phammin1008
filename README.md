@@ -8,9 +8,9 @@ I thrive on digital and data-driven impact.
 ALSOOO find energy in marketing, events and communication.
 Like a chameleon, I adapt, reinvent, and grow.
 
-- 📊 Data Analysis & Visualization  
+- 📊 Data Analysis & Visualization with strong Marketing background
 - 🧠 Business-oriented data thinking
-- 🛠 SQL | Python | Power BI | Tableau | Google Ads | Meta Ads
+- 🛠 SQL | Python | Power BI | Tableau | Google Ads | Meta Ads | CRM (Eloqua, Hubspot)
 
 ---
 
