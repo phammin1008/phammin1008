@@ -25,9 +25,9 @@ Like a chameleon, I adapt, reinvent, and grow.
 
 ### 🧰 Technical Skills
 - **Data**: SQL (PostgreSQL), Excel, Google Sheets  
-- **Programming**: Python (Pandas, NumPy, Matplotlib)  
+- **Programming**: Python  
 - **BI Tools**: Power BI, Tableau  
-- **Others**: Git, Jupyter Notebook  
+- **Others**: Google Ads, Meta Ads, Website Creation 
 
 ---
 
