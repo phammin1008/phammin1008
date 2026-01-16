@@ -32,11 +32,8 @@ Like a chameleon, I adapt, reinvent, and grow.
 ---
 
 ### 📌 Featured Projects
-- 🔹 **Sales Performance Analysis (SQL + Power BI)**  
-  👉 Business insights on revenue, customers, and growth  
-  🔗 Repo: https://github.com/yourname/sales-analysis  
+- 🔹 **E-commerce Sales Analysis**  
+  👉 👉 Business insights on sales performance, revenue distribution, and top-performing markets and products  
+  🔗 Repo: https://github.com/phammin1008/ecommerce-sales-analysis
 
-- 🔹 **Customer Behavior EDA (Python)**  
-  👉 Exploratory analysis & actionable insights  
-  🔗 Repo: https://github.com/yourname/customer-eda  
 
