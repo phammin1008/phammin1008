@@ -1,22 +1,23 @@
-<h1 align="center">Hi, I'm Min 👋</h1>
-<h3 align="center">Data Analyst | Business & Marketing Background</h3>
+<h1 align="center">Bienvenue, I am Min PHAM, I am in Paris 👋</h1>
 
 ---
 
 ### 👩‍💻 About Me
-I am a Data Analyst with a strong background in business and digital marketing.  
-I enjoy turning raw data into clear insights to support decision-making.
+I am a Data Analyst with Business Strategies at heart and Data in mind.
+I thrive on digital and data-driven impact.
+ALSOOO find energy in marketing, events and communication.
+Like a chameleon, I adapt, reinvent, and grow.
 
 - 📊 Data Analysis & Visualization  
-- 🧠 Business-oriented data thinking  
-- 🛠 SQL | Python | Power BI | Tableau  
+- 🧠 Business-oriented data thinking
+- 🛠 SQL | Python | Power BI | Tableau | Google Ads | Meta Ads
 
 ---
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/yourlink/">LinkedIn</a> |
-<a href="https://notion.so/yourportfolio">Portfolio (Notion)</a>
+<a href="https://www.linkedin.com/in/min-pham/">LinkedIn</a> |
+<a href="https://www.notion.so/phammin1008/Bienvenue-I-am-Min-2eaaeec515f080b2adb6cd223d272fcf?source=copy_link">Portfolio (Notion)</a>
 </p>
 
 ---
@@ -38,7 +39,3 @@ I enjoy turning raw data into clear insights to support decision-making.
   👉 Exploratory analysis & actionable insights  
   🔗 Repo: https://github.com/yourname/customer-eda  
 
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
