@@ -17,8 +17,7 @@ Like a chameleon, I adapt, reinvent, and grow.
 ### 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/min-pham/">LinkedIn</a> |
-<a href="https://www.notion.so/phammin1008/Bienvenue-I-am-Min-2eaaeec515f080b2adb6cd223d272fcf?source=copy_link">Portfolio (Notion)</a> |
-<a href="https://phammin1008.wixsite.com/minpham">Website made by me</a>
+<a href="https://phammin1008.wixsite.com/minpham">Website</a>
 </p>
 
 ---
