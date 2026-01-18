@@ -3,7 +3,7 @@
 ---
 
 ### 👩‍💻 About Me
-I am a Data Analyst with Business Strategies at heart and Data in mind.
+I am a Data Analyst/Marketing Analyst with Business Strategies at heart and Data in mind.
 I thrive on digital and data-driven impact.
 ALSOOO find energy in marketing, events and communication.
 Like a chameleon, I adapt, reinvent, and grow.
